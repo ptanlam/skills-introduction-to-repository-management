@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ptanlam
+/src/backend/database.py      @ptanlam
+/src/backend/routers/auth.py  @ptanlam
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ptanlam
